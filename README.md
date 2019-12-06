@@ -1,0 +1,2 @@
+# document_management_app_frontend
+Documents management application for managing publications
